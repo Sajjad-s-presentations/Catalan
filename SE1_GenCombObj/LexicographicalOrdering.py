@@ -37,3 +37,9 @@ class LexographicalOrdering:
                 r = r + math.pow(2, (X_len-i))
 
         return r
+
+    def SbsetLexUnrank(self, r):
+        T = []
+        X_len = len(self.X)
+        for i in range( X_len +1, 1):
+            print(i)
