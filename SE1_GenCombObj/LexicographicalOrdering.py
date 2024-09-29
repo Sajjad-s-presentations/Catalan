@@ -13,7 +13,7 @@ class LexographicalOrdering:
         t = []
         counter = 0
         for xt in XT:
-            if xt == 1:
+            if xt == '1':
                 t.append(self.X[counter])
             counter += 1
         return t
@@ -23,4 +23,4 @@ class LexographicalOrdering:
         for i in range((X_len*X_len)-1):
             curr_xt = bin(i)[2:].zfill(X_len)
             xt = [x for x in curr_xt]
-            print(xt)
+            print("Rank: {} X(T): {} T: {}".format(i, xt, self.getTbyXT(xt)))
