@@ -44,4 +44,8 @@ class LexographicalOrdering:
         for i in reversed(X_len):
             if i == 0:
                 break
-            print(i)
+            if r % 2 == 1.0:
+                T.append(i)
+            r = r/2
+
+        return T
