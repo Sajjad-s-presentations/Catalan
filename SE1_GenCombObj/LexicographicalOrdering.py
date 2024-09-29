@@ -19,6 +19,8 @@ class LexographicalOrdering:
         return t
 
     def LexoTable(self):
-        numer_of_rows = len(self.X)
-        for i in range((numer_of_rows*numer_of_rows)-1):
-            print(i)
+        X_len = len(self.X)
+        for i in range((X_len*X_len)-1):
+            curr_xt = bin(i)[2:].zfill(X_len)
+            xt = [x for x in curr_xt]
+            print(xt)
