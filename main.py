@@ -1,4 +1,4 @@
 from SE1_GenCombObj.LexicographicalOrdering import LexographicalOrdering
 
 LO = LexographicalOrdering(3)
-print(LO.getTbyXT([0,0,1]))
+print(LO.getTbyXT([0,1,0]))
