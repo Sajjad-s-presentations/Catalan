@@ -29,7 +29,7 @@ class LexographicalOrdering:
     def SbsetLexRank(self, T):
         r = 0
         X_len = len(self.X)
-        for i in range((X_len * X_len) - 1):
+        for i in range(X_len - 1):
             r = r * 2
             if i in T:
                 r += 1
