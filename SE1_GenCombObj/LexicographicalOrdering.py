@@ -12,10 +12,9 @@ class LexographicalOrdering:
     def getTbyXT(self, XT):
         t = []
         counter = 0
-        print(self.X)
         for xt in XT:
             if xt == 1:
                 t.append(self.X[counter])
-            counter += counter
+            counter += 1
 
         return t
