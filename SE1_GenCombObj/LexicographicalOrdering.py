@@ -16,5 +16,9 @@ class LexographicalOrdering:
             if xt == 1:
                 t.append(self.X[counter])
             counter += 1
-
         return t
+
+    def LexoTable(self):
+        numer_of_rows = len(self.X)
+        for i in range((numer_of_rows*numer_of_rows)-1):
+            print(i)

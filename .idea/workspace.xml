@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="58c63966-0636-4628-b846-54448d524ed4" name="Changes" comment="" />
+    <list default="true" id="58c63966-0636-4628-b846-54448d524ed4" name="Changes" comment="getTbyXT">
+      <change beforePath="$PROJECT_DIR$/SE1_GenCombObj/LexicographicalOrdering.py" beforeDir="false" afterPath="$PROJECT_DIR$/SE1_GenCombObj/LexicographicalOrdering.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,9 +33,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -68,19 +85,70 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727611107832</updated>
-      <workItem from="1727611133935" duration="6000" />
+      <workItem from="1727611133935" duration="1246000" />
     </task>
+    <task id="LOCAL‎−۰۰۰۰۱" summary="init">
+      <option name="closed" value="true" />
+      <created>1727611315868</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۱" />
+      <updated>1727611315868</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۲" summary="init">
+      <option name="closed" value="true" />
+      <created>1727611484826</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۲" />
+      <updated>1727611484826</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۳" summary="X">
+      <option name="closed" value="true" />
+      <created>1727611650049</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۳" />
+      <updated>1727611650049</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۴" summary="getTbyXT">
+      <option name="closed" value="true" />
+      <created>1727612193458</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۴" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۴" />
+      <updated>1727612193458</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۵" summary="getTbyXT">
+      <option name="closed" value="true" />
+      <created>1727612295825</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۵" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۵" />
+      <updated>1727612295825</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۶" summary="getTbyXT">
+      <option name="closed" value="true" />
+      <created>1727612350415</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۶" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۶" />
+      <updated>1727612350415</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۷" summary="getTbyXT">
+      <option name="closed" value="true" />
+      <created>1727612361452</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۷" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۷" />
+      <updated>1727612361452</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="X" />
+    <MESSAGE value="getTbyXT" />
+    <option name="LAST_COMMIT_MESSAGE" value="getTbyXT" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cmbinatorial_algorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1727612350887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
