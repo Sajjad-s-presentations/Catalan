@@ -41,5 +41,5 @@ class LexographicalOrdering:
     def SbsetLexUnrank(self, r):
         T = []
         X_len = len(self.X)
-        for i in range( X_len +1, 1):
+        for i in range(X_len +1, 1):
             print(i)
