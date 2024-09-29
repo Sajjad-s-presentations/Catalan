@@ -24,3 +24,14 @@ class LexographicalOrdering:
             curr_xt = bin(i)[2:].zfill(X_len)
             xt = [x for x in curr_xt]
             print("Rank: {} X(T): {} T: {}".format(i, xt, self.getTbyXT(xt)))
+
+
+    def SbsetLexRank(self, T):
+        r = 0
+        X_len = len(self.X)
+        for i in range((X_len * X_len) - 1):
+            r = r * 2
+            if i in T:
+                r += 1
+
+        return r
