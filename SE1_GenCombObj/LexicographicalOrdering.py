@@ -1,3 +1,6 @@
+import math
+
+
 class LexographicalOrdering:
     def __init__(self, n):
         print("Lexicographical Ordering")
@@ -29,9 +32,8 @@ class LexographicalOrdering:
     def SbsetLexRank(self, T):
         r = 0
         X_len = len(self.X)
-        for i in range(X_len - 1):
-            r = r * 2
+        for i in range(X_len):
             if i in T:
-                r += 1
+                r = r + math.pow(2, (X_len-i))
 
         return r
