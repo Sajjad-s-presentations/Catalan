@@ -21,6 +21,19 @@ class LexographicalOrdering:
             counter += 1
         return t
 
+    def getXTbyT(self, T):
+        xt = []
+        counter = 0
+        n = len(self.X)
+        for t in T:
+            if int(n-t) == self.X:
+                xt.append('1')
+            else:
+                xt.append('0')
+            counter += 1
+        return t
+
+
     def LexoTable(self):
         X_len = len(self.X)
         for i in range((X_len*X_len)-1):
