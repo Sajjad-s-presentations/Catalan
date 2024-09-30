@@ -66,3 +66,12 @@ class LexographicalOrdering:
 
     def SubsetLexSuccessor(self, T):
         n = len(self.X)
+        for i in range(n):
+            if n-i in T:
+                T.remove(n-i)
+            else:
+                break
+
+            if i <= n-1:
+                T.append(n-i)
+        return T
