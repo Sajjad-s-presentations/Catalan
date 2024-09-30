@@ -63,3 +63,6 @@ class LexographicalOrdering:
             r = r/2
 
         return T
+
+    def SubsetLexSuccessor(self, T):
+        n = len(self.X)
