@@ -24,14 +24,15 @@ class LexographicalOrdering:
     def getXTbyT(self, T):
         xt = []
         counter = 0
-        n = len(self.X)
-        for t in T:
-            if int(n-t) == self.X:
+        n = len(self.X)+1
+        for t in self.X:
+            if int(t) in T:
                 xt.append('1')
             else:
                 xt.append('0')
             counter += 1
-        return t
+
+        return xt
 
 
     def LexoTable(self):
