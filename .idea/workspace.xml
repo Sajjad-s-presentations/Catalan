@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58c63966-0636-4628-b846-54448d524ed4" name="Changes" comment="getXTbyT">
-      <change beforePath="$PROJECT_DIR$/SE1_GenCombObj/LexicographicalOrdering.py" beforeDir="false" afterPath="$PROJECT_DIR$/SE1_GenCombObj/LexicographicalOrdering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727611107832</updated>
-      <workItem from="1727611133935" duration="6030000" />
+      <workItem from="1727611133935" duration="6952000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="init">
       <option name="closed" value="true" />
@@ -242,7 +241,21 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۲۲" />
       <updated>1727676216711</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL‎−۰۰۰۲۳" summary="getXTbyT">
+      <option name="closed" value="true" />
+      <created>1727676450009</created>
+      <option name="number" value="LOCAL‎−۰۰۰۲۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۲۳" />
+      <updated>1727676450009</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۲۴" summary="getXTbyT">
+      <option name="closed" value="true" />
+      <created>1727676558596</created>
+      <option name="number" value="LOCAL‎−۰۰۰۲۴" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۲۴" />
+      <updated>1727676558596</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +272,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="getXTbyT" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/cmbinatorial_algorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1727676251116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cmbinatorial_algorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1727676550835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
