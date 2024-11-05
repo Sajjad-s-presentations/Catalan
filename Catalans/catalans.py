@@ -9,7 +9,7 @@ class Catalan:
         currX = 0
         currY = 0
         for s in sequence:
-            if s == 0:
+            if s == '0':
                 currY += 1
             else:
                 currY -= 1
