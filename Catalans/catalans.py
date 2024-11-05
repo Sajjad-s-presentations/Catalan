@@ -1,4 +1,4 @@
-import matplotlib as plt
+import matplotlib.pyplot as plt
 class Catalan:
     def __init__(self):
         print("Catalan is called!")
