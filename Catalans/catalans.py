@@ -1,3 +1,4 @@
+import matplotlib as plt
 class Catalan:
     def __init__(self):
         print("Catalan is called!")
@@ -17,4 +18,6 @@ class Catalan:
             X.append(currX)
             Y.append(currY)
 
-        return(X, Y)
+        plt.plot(Y, linestyle='dotted')
+        plt.show()
+        #return(X, Y)

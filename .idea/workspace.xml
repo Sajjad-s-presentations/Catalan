@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58c63966-0636-4628-b846-54448d524ed4" name="Changes" comment="getXTbyT">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="58c63966-0636-4628-b846-54448d524ed4" name="Changes" comment="sequence_to_path test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +43,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Plus\PycharmProjects\cmbinatorial algorithms" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="cmbinatorial algorithms" />
@@ -89,6 +92,7 @@
       <workItem from="1727778716082" duration="767000" />
       <workItem from="1727855413867" duration="297000" />
       <workItem from="1729073162189" duration="74000" />
+      <workItem from="1730815225093" duration="1361000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="init">
       <option name="closed" value="true" />
@@ -272,7 +276,56 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۲۶" />
       <updated>1727855493266</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL‎−۰۰۰۲۷" summary="Catalan">
+      <option name="closed" value="true" />
+      <created>1730815409282</created>
+      <option name="number" value="LOCAL‎−۰۰۰۲۷" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۲۷" />
+      <updated>1730815409282</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۲۸" summary="Catalan">
+      <option name="closed" value="true" />
+      <created>1730815462725</created>
+      <option name="number" value="LOCAL‎−۰۰۰۲۸" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۲۸" />
+      <updated>1730815462725</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۲۹" summary="Catalan">
+      <option name="closed" value="true" />
+      <created>1730815500588</created>
+      <option name="number" value="LOCAL‎−۰۰۰۲۹" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۲۹" />
+      <updated>1730815500588</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۳۰" summary="sequence_to_path">
+      <option name="closed" value="true" />
+      <created>1730815896896</created>
+      <option name="number" value="LOCAL‎−۰۰۰۳۰" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۳۰" />
+      <updated>1730815896896</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۳۱" summary="sequence_to_path test">
+      <option name="closed" value="true" />
+      <created>1730815902926</created>
+      <option name="number" value="LOCAL‎−۰۰۰۳۱" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۳۱" />
+      <updated>1730815902926</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۳۲" summary="sequence_to_path test">
+      <option name="closed" value="true" />
+      <created>1730815928301</created>
+      <option name="number" value="LOCAL‎−۰۰۰۳۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۳۲" />
+      <updated>1730815928301</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۳۳" summary="sequence_to_path test">
+      <option name="closed" value="true" />
+      <created>1730815971772</created>
+      <option name="number" value="LOCAL‎−۰۰۰۳۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۳۳" />
+      <updated>1730815971772</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,9 +339,12 @@
     <MESSAGE value="SbsetLexRank" />
     <MESSAGE value="SbsetLexUnrank" />
     <MESSAGE value="getXTbyT" />
-    <option name="LAST_COMMIT_MESSAGE" value="getXTbyT" />
+    <MESSAGE value="Catalan" />
+    <MESSAGE value="sequence_to_path" />
+    <MESSAGE value="sequence_to_path test" />
+    <option name="LAST_COMMIT_MESSAGE" value="sequence_to_path test" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/cmbinatorial_algorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1727676550835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cmbinatorial_algorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1730815962868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
