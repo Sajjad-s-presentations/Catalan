@@ -1,5 +1,5 @@
-from SE1_GenCombObj.LexicographicalOrdering import LexographicalOrdering
+from Catalans.catalans import Catalan
 
-LO = LexographicalOrdering(3)
-print(LO.SubsetLexSuccessor([1]))
+
+
 

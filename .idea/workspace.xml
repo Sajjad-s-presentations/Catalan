@@ -87,6 +87,8 @@
       <updated>1727611107832</updated>
       <workItem from="1727611133935" duration="6952000" />
       <workItem from="1727778716082" duration="767000" />
+      <workItem from="1727855413867" duration="297000" />
+      <workItem from="1729073162189" duration="74000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="init">
       <option name="closed" value="true" />
@@ -263,7 +265,14 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۲۵" />
       <updated>1727778749992</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL‎−۰۰۰۲۶" summary="getXTbyT">
+      <option name="closed" value="true" />
+      <created>1727855493266</created>
+      <option name="number" value="LOCAL‎−۰۰۰۲۶" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۲۶" />
+      <updated>1727855493266</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
