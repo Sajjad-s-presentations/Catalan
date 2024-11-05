@@ -18,6 +18,4 @@ class Catalan:
             X.append(currX)
             Y.append(currY)
 
-        plt.plot(Y, linestyle='dotted')
-        plt.show()
-        #return(X, Y)
+        return(X, Y)
