@@ -1,5 +1,4 @@
-from Catalans.catalans import Catalan
-
+from SE1_GenCombObj.LexicographicalOrdering import LexographicalOrdering
 
 
 
