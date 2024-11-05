@@ -6,5 +6,5 @@ class Plot:
         print("Plot is called")
 
     def line_only_y_plot(self, y):
-        plt.plot(y, linestyle='dotted')
+        plt.plot(y)
         plt.show()
