@@ -4,7 +4,7 @@ from Plots.plot import Plot
 
 C1 = Catalan()
 P1 = Plot()
-path = C1.sequence_to_path('0010011010011011')
+path = C1.sequence_to_path('00110100110010100100111011')
 print(path)
 P1.line_only_y_plot(path[1])
 
