@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58c63966-0636-4628-b846-54448d524ed4" name="Changes" comment="sequence_to_path test plot">
-      <change afterPath="$PROJECT_DIR$/Plots/plot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Catalans/catalans.py" beforeDir="false" afterPath="$PROJECT_DIR$/Catalans/catalans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,8 @@
       <workItem from="1727778716082" duration="767000" />
       <workItem from="1727855413867" duration="297000" />
       <workItem from="1729073162189" duration="74000" />
-      <workItem from="1730815225093" duration="1730000" />
+      <workItem from="1730815225093" duration="3660000" />
+      <workItem from="1730986518443" duration="598000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="init">
       <option name="closed" value="true" />
@@ -349,7 +350,21 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۳۶" />
       <updated>1730817097669</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL‎−۰۰۰۳۷" summary="sequence_to_path test plot">
+      <option name="closed" value="true" />
+      <created>1730817318053</created>
+      <option name="number" value="LOCAL‎−۰۰۰۳۷" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۳۷" />
+      <updated>1730817318053</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۳۸" summary="sequence_to_path test plot">
+      <option name="closed" value="true" />
+      <created>1730817344931</created>
+      <option name="number" value="LOCAL‎−۰۰۰۳۸" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۳۸" />
+      <updated>1730817344931</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,6 +385,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="sequence_to_path test plot" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/cmbinatorial_algorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1730817088736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cmbinatorial_algorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1730818200235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
