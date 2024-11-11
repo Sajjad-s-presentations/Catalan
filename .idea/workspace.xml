@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="58c63966-0636-4628-b846-54448d524ed4" name="Changes" comment="sequence_to_path test plot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,21 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Plus/Desktop",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Plus/Desktop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Plus\PycharmProjects\cmbinatorial algorithms" />
@@ -98,6 +99,7 @@
       <workItem from="1730815225093" duration="3660000" />
       <workItem from="1730986518443" duration="598000" />
       <workItem from="1731005845422" duration="881000" />
+      <workItem from="1731245439102" duration="2108000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="init">
       <option name="closed" value="true" />
@@ -379,7 +381,21 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۴۰" />
       <updated>1731006868268</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL‎−۰۰۰۴۱" summary="sequence_to_path test plot">
+      <option name="closed" value="true" />
+      <created>1731245495747</created>
+      <option name="number" value="LOCAL‎−۰۰۰۴۱" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۴۱" />
+      <updated>1731245495747</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۴۲" summary="sequence_to_path test plot">
+      <option name="closed" value="true" />
+      <created>1731245521185</created>
+      <option name="number" value="LOCAL‎−۰۰۰۴۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۴۲" />
+      <updated>1731245521185</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,6 +416,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="sequence_to_path test plot" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/cmbinatorial_algorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1731006828849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cmbinatorial_algorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1731247171437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
