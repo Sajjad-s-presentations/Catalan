@@ -5,6 +5,6 @@ from Catalans.catalans import Catalan
 from Plots.plot import Plot
 
 p1 = Permutation(3)
-p1.ferres_ypung_diagram([4,2,1])
+p1.ferres_ypung_diagram_star([4,2,1])
 
 
