@@ -2,7 +2,7 @@ class Permutation:
     def __init__(self, m):
         print("Permutation constructor is called with order {}".format(m))
         self.m = m
-        self.partition = []
+        self.partition = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 
     def generate_parrtitions(self, curr_m, B, N):
         print(curr_m)
