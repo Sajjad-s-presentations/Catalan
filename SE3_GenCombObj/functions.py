@@ -21,7 +21,7 @@ class Permutation:
 
     def ferres_ypung_diagram_star(self, arr):
         arr_star = []
-        for a0 in arr[0]:
+        for a0 in range(0, arr[0]):
             arr_star.append(0)
         for a in arr:
             for i in range (0, a):
