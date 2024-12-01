@@ -23,9 +23,11 @@ class Permutation:
         arr_star = []
         for a0 in range(0, arr[0]):
             arr_star.append(0)
+
+
         for a in arr:
             for i in range (0, a):
-                arr_star[1] += 1
+                arr_star[i] += 1
 
         self.ferres_ypung_diagram(arr_star)
 
