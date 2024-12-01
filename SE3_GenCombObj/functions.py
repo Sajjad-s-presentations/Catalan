@@ -5,6 +5,7 @@ class Permutation:
         self.partition = []
 
     def generate_parrtitions(self, curr_m, B, N):
+        print(curr_m)
         if curr_m == 0:
             return self.partition
         else:
