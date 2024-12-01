@@ -18,3 +18,15 @@ class Permutation:
             for i in range (0, a):
                 print("*", end="")
             print("")
+
+    def ferres_ypung_diagram_star(self, arr):
+        arr_star = []
+        for a0 in arr[0]:
+            arr_star.append(0)
+        for a in arr:
+            for i in range (0, a):
+                arr_star[1] += 1
+
+        self.ferres_ypung_diagram(arr_star)
+
+
