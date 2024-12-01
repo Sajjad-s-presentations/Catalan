@@ -9,6 +9,6 @@ class Permutation:
             return self.partition
         else:
             for i in range(1, min(B, N)):
-                an = i
-                self.partition.append(an)
+                print(i)
+                self.partition.append(i)
                 self.generate_parrtitions(curr_m-i, i, N+1)
