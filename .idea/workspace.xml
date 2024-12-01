@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58c63966-0636-4628-b846-54448d524ed4" name="Changes" comment="permutation">
-      <change beforePath="$PROJECT_DIR$/SE3_GenCombObj/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/SE3_GenCombObj/functions.py" afterDir="false" />
-    </list>
+    <list default="true" id="58c63966-0636-4628-b846-54448d524ed4" name="Changes" comment="debuging permutation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,35 +104,7 @@
       <workItem from="1731315439880" duration="425000" />
       <workItem from="1731852296631" duration="789000" />
       <workItem from="1731939962299" duration="32000" />
-      <workItem from="1733051278537" duration="407000" />
-    </task>
-    <task id="LOCAL‎−۰۰۰۰۱" summary="init">
-      <option name="closed" value="true" />
-      <created>1727611315868</created>
-      <option name="number" value="LOCAL‎−۰۰۰۰۱" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۰۱" />
-      <updated>1727611315868</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۰۲" summary="init">
-      <option name="closed" value="true" />
-      <created>1727611484826</created>
-      <option name="number" value="LOCAL‎−۰۰۰۰۲" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۰۲" />
-      <updated>1727611484826</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۰۳" summary="X">
-      <option name="closed" value="true" />
-      <created>1727611650049</created>
-      <option name="number" value="LOCAL‎−۰۰۰۰۳" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۰۳" />
-      <updated>1727611650049</updated>
-    </task>
-    <task id="LOCAL‎−۰۰۰۰۴" summary="getTbyXT">
-      <option name="closed" value="true" />
-      <created>1727612193458</created>
-      <option name="number" value="LOCAL‎−۰۰۰۰۴" />
-      <option name="presentableId" value="LOCAL‎−۰۰۰۰۴" />
-      <updated>1727612193458</updated>
+      <workItem from="1733051278537" duration="720000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۵" summary="getTbyXT">
       <option name="closed" value="true" />
@@ -444,7 +414,42 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۴۸" />
       <updated>1733051476950</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL‎−۰۰۰۴۹" summary="permutation">
+      <option name="closed" value="true" />
+      <created>1733051867313</created>
+      <option name="number" value="LOCAL‎−۰۰۰۴۹" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۴۹" />
+      <updated>1733051867313</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۵۰" summary="permutation">
+      <option name="closed" value="true" />
+      <created>1733051889675</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۰" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۰" />
+      <updated>1733051889676</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۵۱" summary="permutation">
+      <option name="closed" value="true" />
+      <created>1733051926147</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۱" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۱" />
+      <updated>1733051926148</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۵۲" summary="permutation">
+      <option name="closed" value="true" />
+      <created>1733051953222</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۲" />
+      <updated>1733051953222</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۵۳" summary="debuging permutation">
+      <option name="closed" value="true" />
+      <created>1733051972374</created>
+      <option name="number" value="LOCAL‎−۰۰۰۵۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۵۳" />
+      <updated>1733051972374</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +469,8 @@
     <MESSAGE value="sequence_to_path test plot" />
     <MESSAGE value="test gca" />
     <MESSAGE value="permutation" />
-    <option name="LAST_COMMIT_MESSAGE" value="permutation" />
+    <MESSAGE value="debuging permutation" />
+    <option name="LAST_COMMIT_MESSAGE" value="debuging permutation" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cmbinatorial_algorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1731852488005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
