@@ -11,3 +11,10 @@ class Permutation:
             for i in range(1, min(B, curr_m)):
                 self.partition[N+1] = i
                 self.generate_parrtitions(curr_m-i, i, N+1)
+
+
+    def ferres_ypung_diagram(self, arr):
+        for a in arr:
+            for star in a:
+                print("*", end="")
+            print("")

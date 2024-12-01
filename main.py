@@ -5,7 +5,6 @@ from Catalans.catalans import Catalan
 from Plots.plot import Plot
 
 p1 = Permutation(3)
-print(p1.generate_parrtitions(3,3,0))
-
+p1.ferres_ypung_diagram([4,2,1])
 
 
