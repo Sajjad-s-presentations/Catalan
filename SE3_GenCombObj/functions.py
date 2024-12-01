@@ -8,7 +8,7 @@ class Permutation:
         if curr_m == 0:
             return self.partition
         else:
-            for i in range(1, min(B, N)):
+            for i in range(1, min(B, N)+1):
                 print(i)
                 self.partition.append(i)
                 self.generate_parrtitions(curr_m-i, i, N+1)
